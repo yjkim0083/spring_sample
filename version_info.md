@@ -1,7 +1,4 @@
-### pom.xml
+# java library 정리
 
-```
-if (isAwesome){
-  return true
-}
-```
+#### java version  
+- 1.8
