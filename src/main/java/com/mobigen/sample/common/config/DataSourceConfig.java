@@ -32,7 +32,6 @@ public class DataSourceConfig {
 //		System.out.println("=======================================");
 //		System.out.println("Create Tables");
 //		System.out.println("=======================================");
-//		
 //		jdbcTemplate.execute("drop table users if exsits");
 //		jdbcTemplate.execute("create table users(id serial, firstName varchar(255), lastName varchar(255), email varchar(255))");
 //		jdbcTemplate.update("INSERT INTO users(firstName, lastName, email) values (?,?,?)", "Mike", "Lanyon", "lanyonm@gmail.com");
